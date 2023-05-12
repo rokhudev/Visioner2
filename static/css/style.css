@@ -1,0 +1,25 @@
+body {
+  height: 500px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 255, 255);
+}
+
+.container-fluid {
+	padding: 10px 100px;
+}
+/* #carousel {
+} */
+/* #projects {
+  background-color: rgb(158, 234, 241);
+} */
+#prediksi {
+  background-color: rgb(158, 234, 241);
+}
+
+section {
+  padding-top: 5rem;
+}
+
